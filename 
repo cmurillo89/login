@@ -1,0 +1,23 @@
+[33mcommit 79d4fec84f57277fd7715d103f2982eb3799c11a[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m, [m[1;31morigin/login[m[33m)[m
+Author: cmurillo89 <christopherrmg@gmail.com>
+Date:   Thu Aug 25 10:29:33 2022 -0600
+
+    version alternativa con un login
+
+[33mcommit 6af17e9dfbfa5d7358964f20c4bdc800f82e452f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: cmurillo89 <christopherrmg@gmail.com>
+Date:   Thu Aug 25 10:24:12 2022 -0600
+
+    agregué un .gitignore
+
+[33mcommit c53be052edacdd8611dbe614b072c2ce3f0c0ba2[m
+Author: cmurillo89 <christopherrmg@gmail.com>
+Date:   Thu Aug 25 10:04:53 2022 -0600
+
+    Modifica el index.html
+
+[33mcommit 7cb245bc9030a7dad8e348a287f8284a95e06693[m
+Author: cmurillo89 <christopherrmg@gmail.com>
+Date:   Thu Aug 25 09:55:10 2022 -0600
+
+    Mi primer commit
